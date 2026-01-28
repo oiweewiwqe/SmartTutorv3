@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartTutor</string>
+    <string name="voice_input_prompt">Говорите, я записываю...</string>
+    <string name="default_web_client_id">271992527897-pp7fhqdjatehko4gjundee0alkpfodgc.apps.googleusercontent.com</string>
+</resources>
